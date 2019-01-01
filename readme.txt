@@ -1,6 +1,6 @@
 SOURCES AND CREDITS:
 
-I've used the following resources as listed.
+For this website I've used the following resources as listed.
 
 Fonts:
  - Metropolis Font (https://www.fontsquirrel.com/fonts/metropolis)
