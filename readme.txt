@@ -1,4 +1,4 @@
-http://dhairyashah.000webhostapp.com/transcend/
+http://dhairyashah.000webhostapp.com/transcend/index.html
 
 SOURCES AND CREDITS:
 
